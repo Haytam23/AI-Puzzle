@@ -1,0 +1,5 @@
+Strategy,Solved Puzzles,Average Depth,Average Expanded Nodes,Average Max Fringe Size,Average Execution Time (seconds)
+BFS,977,5.02,817.14,1290.66,0.0599
+DFS,708,21.40,1150795.93,51.72,47.4188
+UCS,977,5.02,817.14,1290.66,59.5351
+A* (Manhattan Distance),977,5.02,6.32,11.90,0.0003

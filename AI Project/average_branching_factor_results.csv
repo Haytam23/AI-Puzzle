@@ -1,0 +1,5 @@
+Heuristic,Average Effective Branching Factor (b*)
+Misplaced Tiles (h1),1.0272
+Manhattan Distance (h2),1.0046    /* Among the admissible heuristics Manhattan Distance is the most efficient because the effective branching factor is the closet to 1 */
+Euclidean Distance (h3),1.0127
+Out of Row and Column (h4),1.0060
